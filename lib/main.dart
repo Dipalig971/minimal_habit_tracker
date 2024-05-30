@@ -8,11 +8,12 @@ Future<void> main()
 async {
   WidgetsFlutterBinding.ensureInitialized();
   // initialize database
-  await HabitDatabase.initialize();
-  await HabitDatabase().saveFirstLaunchDate();
+  await HabitDataBase.initialize();
+  await HabitDataBase().saveFirstLaunchDate();
 
   runApp(MultiProvider(providers: [
-    ChangeNotifierProvider(create: (context) => ThemeProvider(),)
+    ChangeNotifierProvider(create: (context) => ThemeProvider(),),
+    ChangeNotifierProvider(create: (context) => HabitDataBase(),),
   ],
   builder:(context, child) =>  const MyApp()));
 }
