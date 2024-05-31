@@ -1,16 +1,15 @@
 # minimal_habit_tracker
 
-A new Flutter project.
+A habit tracker is a tool that helps you monitor and build good habits or break bad ones. It's usually a chart where you mark off each day you stick to your goals, like exercising or avoiding junk food.
 
-## Getting Started
+## Images:
 
-This project is a starting point for a Flutter application.
+<div align="center">
+   <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/5f22a9bd-71e7-44dc-b3de-c4abc14cc45d" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/e725a797-dd2e-4b75-adcc-10df7d0ef86d" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/e82917cc-e114-4b39-a04b-f2b9a0cafe51" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/71da7859-7eb8-42c7-8d29-42a3b605a4df" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/e4e501d6-a101-4271-bae5-de27c33485d6" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
