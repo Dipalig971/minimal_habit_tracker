@@ -10,6 +10,6 @@ A habit tracker is a tool that helps you monitor and build good habits or break 
    <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/e82917cc-e114-4b39-a04b-f2b9a0cafe51" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/71da7859-7eb8-42c7-8d29-42a3b605a4df" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/e4e501d6-a101-4271-bae5-de27c33485d6" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
-  
+   <video src="https://github.com/Dipalig971/minimal_habit_tracker/assets/143181151/0ad1495a-1909-41ef-b67f-27c9af550d7f">
 </div>
 
